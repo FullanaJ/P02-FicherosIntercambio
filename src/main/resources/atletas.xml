@@ -1,0 +1,36 @@
+<Root>
+  <atletasFemeninas>
+    <atleta nombre="Ana">
+      <edad>20</edad>
+      <pais>España</pais>
+      <pruebas>
+        <prueba>100m</prueba>
+        <prueba>200m</prueba>
+      </pruebas>
+    </atleta>
+    <atleta nombre="María">
+      <edad>21</edad>
+      <pais>España</pais>
+      <pruebas>
+        <prueba>100m</prueba>
+        <prueba>200m</prueba>
+      </pruebas>
+    </atleta>
+    <atleta nombre="Laura">
+      <edad>22</edad>
+      <pais>España</pais>
+      <pruebas>
+        <prueba>100m</prueba>
+        <prueba>200m</prueba>
+      </pruebas>
+    </atleta>
+    <atleta nombre="Sara">
+      <edad>23</edad>
+      <pais>España</pais>
+      <pruebas>
+        <prueba>100m</prueba>
+        <prueba>200m</prueba>
+      </pruebas>
+    </atleta>
+  </atletasFemeninas>
+</Root>
